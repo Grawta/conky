@@ -49,7 +49,7 @@ echo "################################################################"
 echo "Downloading the files from github to tmp directory"
 
 
-git clone https://github.com/erikdubois/Aureola /tmp/aureola
+git clone https://github.com/Grawta/conky /tmp/aureola
 
 # if there is no hidden folder autostart then make one
 
